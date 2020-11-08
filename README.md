@@ -1,7 +1,14 @@
 <h1> Hi, This is me </h1>
 
 
-**About me:** </br>
+**About me:** </br>   
+<img src="https://media.giphy.com/media/SvjLc4M3yVA8wTiDql/giphy.gif" width="10%" height="auto" />
+<img src="https://media.giphy.com/media/hSRexZvILXWjeahDF9/giphy.gif" width="10%" height="auto" />
+<img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="10%" height="auto" />
+<img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="10%" height="auto" />
+<img src="https://media.giphy.com/media/eMg1crMqi81L0jz2Nx/giphy.gif" width="10%" height="auto" />
+
+</br>
 
 ```javascript
 const Tae = {
