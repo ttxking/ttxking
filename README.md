@@ -3,9 +3,18 @@
 
 **About me:** </br>
 
-🔭    I’m currently working on Django project       
-🌱    I’m currently learning React        
-:pencil2: I'm currently studying at SKE, KU   
+```javascript
+const Tae = {
+  pronouns: "he" | "him",
+  code: [Javascript, Java, HTML, CSS, Python],
+  tools: [React, Node, Styled-Components, Git],
+  education: {
+            highschool: "YBEP",
+            college: "SKE, KU",
+          },
+ currently: "Studying React and JS"
+}
+```
 
 
 **Languages and Tools:** </br>   
