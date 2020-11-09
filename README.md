@@ -13,13 +13,12 @@
 ```javascript
 const Tae = {
   pronouns: "he" | "him",
-  code: [Javascript, Java, HTML, CSS, Python],
-  tools: [React, Node, Styled-Components, Git],
   education: {
-            highschool: "YBEP",
-            college: "SKE, KU",
+            highschool: "YBEP17",
+            college: "SKE17, KU",
           },
- currently: "Studying React and JS"
+  currently: "Studying React and Javascript"
+ 
 }
 ```
 
@@ -33,3 +32,7 @@ const Tae = {
 **My Stat:** </br>        
 [![ttxking's github stats](https://github-readme-stats.vercel.app/api?username=ttxking&theme=algolia)](https://github.com/ttxking/github-readme-stats) </br>   
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ttxking&theme=algolia)
+
+
+**Contact me:** </br> 
+
