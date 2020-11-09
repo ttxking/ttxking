@@ -36,3 +36,5 @@ const Tae = {
 
 **Contact me:** </br> 
 
+
+<strong>inspired by <a href="https://github.com/Thaiane ">Thaine</a></strong>
