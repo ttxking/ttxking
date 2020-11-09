@@ -44,6 +44,6 @@ const Tae = {
 
 
 <strong>inspired by 
-  <a href="https://github.com/Thaiane">Thaine</a> (Javascript info part)
+  <a href="https://github.com/Thaiane">Thaine</a> (Javascript info part) </br>
   <a href="https://github.com/natemoo-re">Natemoo</a> (Spotify now playing path)
 </strong>
