@@ -37,7 +37,7 @@ const Tae = {
 
 **My Stat:** </br>        
 [![ttxking's github stats](https://github-readme-stats.vercel.app/api?username=ttxking&theme=algolia)](https://github.com/ttxking/github-readme-stats) </br>   
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ttxking&theme=algolia)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ttxking&theme=algolia&layout=compact)
 
 
 **Contact me:** </br> 
