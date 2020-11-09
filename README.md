@@ -22,6 +22,7 @@ const Tae = {
 }
 ```
 
+
 **I'm listening to** <br/> 
 <a href="https://now-playing-profile-murex.vercel.app//now-playing?open">
     <img src="https://now-playing-profile-murex.vercel.app//now-playing" width="256" height="64" alt="Now Playing">`
@@ -42,4 +43,7 @@ const Tae = {
 **Contact me:** </br> 
 
 
-<strong>inspired by <a href="https://github.com/Thaiane ">Thaine</a></strong>
+<strong>inspired by 
+  <a href="https://github.com/Thaiane">Thaine</a> (Javascript info part)
+  <a href="https://github.com/natemoo-re">Natemoo</a> (Spotify now playing path)
+</strong>
