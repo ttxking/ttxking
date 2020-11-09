@@ -43,7 +43,7 @@ const Tae = {
 **Contact me:** </br> 
 
 
-<strong>inspired by 
+<strong>inspired by </br>  
   <a href="https://github.com/Thaiane">Thaine</a> (Javascript info part) </br>
   <a href="https://github.com/natemoo-re">Natemoo</a> (Spotify now playing path)
 </strong>
