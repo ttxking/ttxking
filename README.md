@@ -17,7 +17,7 @@ const Tae = {
             highschool: "YBEP17",
             college: "SKE17, KU",
           },
-  currently: "Studying React and Javascript"
+  currently: "Studying CyberSecruity"
  
 }
 ```
